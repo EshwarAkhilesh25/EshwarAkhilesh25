@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Eshwar Akhilesh
 
-### Software Engineer | Backend Developer | Full Stack Developer | AI Enthusiast
+### Full Stack Developer | AI Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+%7C+Spring+Boot+Developer;Full+Stack+Developer;AI+and+Machine+Learning+Explorer;Building+Scalable+Applications+🚀;Always+Learning+New+Things+💡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Enthusiast;Building+Scalable+Applications+🚀;Open+Source+Learner;Always+Learning+New+Things+💡)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,15 +14,13 @@
 
 🎓 Computer Science & Engineering Graduate from **NIT Andhra Pradesh**
 
-💼 Software Development Intern @ **PharmEasy**
+💡 Passionate about building scalable web applications, backend systems, and AI-powered solutions.
 
-💼 Software Development Intern @ **Nityo Infotech**
+🚀 Interested in Full Stack Development, Artificial Intelligence, System Design, and Cloud Technologies.
 
-💼 Pega Intern @ **Eclatprime**
+🌱 Constantly exploring new technologies and building projects that solve real-world problems.
 
-🌱 Passionate about Backend Engineering, Distributed Systems, AI-powered Applications, and Full-Stack Development.
-
-⚡ I enjoy solving real-world problems through technology and continuously learning new tools, frameworks, and system design concepts.
+⚡ Strong believer in learning by building and experimenting.
 
 ---
 
@@ -48,7 +46,7 @@
 
 # 💻 Tech Stack
 
-### Languages
+### Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
@@ -56,22 +54,24 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### Backend
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![REST API](https://img.shields.io/badge/REST_API-grey?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-blue?style=for-the-badge)
-
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![REST API](https://img.shields.io/badge/REST_API-grey?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-blue?style=for-the-badge)
 
 ### Databases
 
@@ -87,22 +87,26 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
 ![CI/CD](https://img.shields.io/badge/CI/CD-success?style=for-the-badge)
 
-### AI & Data
+### AI / Machine Learning
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-purple?style=for-the-badge)
-![OCR](https://img.shields.io/badge/OCR-blue?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-yellow?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-blue?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
-### Tools
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea)
 ![Pega](https://img.shields.io/badge/Pega-blue?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
@@ -132,10 +136,9 @@
 
 ## 🔗 Link Nest
 
-🌐 Live Demo  
-https://link-nest-omega.vercel.app/
+🌐 https://link-nest-omega.vercel.app/
 
-A modern link-sharing platform that allows users to organize and share all their important links from a single profile.
+A modern platform that allows users to organize and share all important links from one profile.
 
 **Tech Stack:** React • TypeScript • Tailwind CSS • Vercel
 
@@ -143,8 +146,7 @@ A modern link-sharing platform that allows users to organize and share all their
 
 ## 🎮 Multiplayer Tic Tac Toe
 
-🌐 Live Demo  
-https://multiplayer-tictactoe-nakama.vercel.app/
+🌐 https://multiplayer-tictactoe-nakama.vercel.app/
 
 Real-time multiplayer Tic Tac Toe with matchmaking and synchronized gameplay.
 
@@ -154,7 +156,7 @@ Real-time multiplayer Tic Tac Toe with matchmaking and synchronized gameplay.
 
 ## 📊 GST Reconciliation Tool
 
-Automated GST comparison platform with Excel uploads, mismatch reporting, and database reconciliation.
+Automated GST comparison and reconciliation platform with Excel uploads and mismatch reporting.
 
 **Tech Stack:** FastAPI • MySQL • React
 
@@ -162,7 +164,7 @@ Automated GST comparison platform with Excel uploads, mismatch reporting, and da
 
 ## 📄 AI Resume Parser
 
-AI-powered resume parsing system that extracts structured candidate information using OCR and NLP.
+AI-powered resume parsing system using OCR and NLP.
 
 **Tech Stack:** Python • FastAPI • NLP • OCR
 
@@ -178,7 +180,7 @@ Real-time speech transcription and sentiment analysis platform.
 
 ## 🧠 Rule Engine
 
-Dynamic rule evaluation engine with AST-based processing.
+Dynamic business rule evaluation engine with AST-based processing.
 
 **Tech Stack:** Node.js • MongoDB
 
@@ -222,6 +224,6 @@ Dynamic rule evaluation engine with AST-based processing.
 
 ### Thanks for visiting my profile 🚀
 
-Always open to Software Engineering opportunities, collaborations, and exciting projects.
+Always open to collaborations, learning opportunities, and exciting software projects.
 
 </div>
