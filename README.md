@@ -2,49 +2,51 @@
 
 # Hi 👋, I'm Eshwar Akhilesh
 
-### Software Engineer | Java Backend Developer | AI Enthusiast
+### Software Engineer | Backend Developer | Full Stack Developer | AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+%7C+Spring+Boot+Developer;React+%7C+Full+Stack+Developer;AI+%2F+ML+Explorer;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+%7C+Spring+Boot+Developer;Full+Stack+Developer;AI+and+Machine+Learning+Explorer;Building+Scalable+Applications+🚀;Always+Learning+New+Things+💡)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 B.Tech in Computer Science & Engineering from **NIT Andhra Pradesh**
+🎓 Computer Science & Engineering Graduate from **NIT Andhra Pradesh**
 
-💼 Former Software Development Intern at **PharmEasy**
+💼 Software Development Intern @ **PharmEasy**
 
-💼 Former Software Development Intern at **Nityo Infotech**
+💼 Software Development Intern @ **Nityo Infotech**
 
-💼 Former Pega Intern at **Eclatprime**
+💼 Pega Intern @ **Eclatprime**
 
-🌱 Passionate about building scalable backend systems, REST APIs, AI-powered applications, and full-stack products.
+🌱 Passionate about Backend Engineering, Distributed Systems, AI-powered Applications, and Full-Stack Development.
 
-⚡ I enjoy solving real-world problems through technology and continuously learning new tools and frameworks.
+⚡ I enjoy solving real-world problems through technology and continuously learning new tools, frameworks, and system design concepts.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/battula-eshwar-akhilesh-chowdary">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<p align="center">
+
+<a href="https://www.linkedin.com/in/eshwar-akhilesh-battula-3969b4252/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://eshwar-akhilesh-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+<a href="mailto:battulaeshwarakhilesh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
+
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
@@ -52,37 +54,59 @@
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ### Backend
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=spring)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![REST API](https://img.shields.io/badge/REST_API-grey?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi)
+![Microservices](https://img.shields.io/badge/Microservices-blue?style=for-the-badge)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 
-### DevOps & Tools
+### Cloud & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![CI/CD](https://img.shields.io/badge/CI/CD-success?style=for-the-badge)
+
+### AI & Data
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-purple?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-blue?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-yellow?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea)
+![Pega](https://img.shields.io/badge/Pega-blue?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -94,79 +118,110 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EshwarAkhilesh25&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📊 GST Reconciliation Tool
-- FastAPI + MySQL + React
-- Automated GST comparison and reconciliation
-- Excel uploads and mismatch reporting
+## 🔗 Link Nest
 
-### 📄 AI Resume Parser
-- NLP + OCR + FastAPI
-- Extracts structured data from resumes
-- Candidate screening automation
+🌐 Live Demo  
+https://link-nest-omega.vercel.app/
 
-### 🧠 Rule Engine
-- Node.js + MongoDB
-- Dynamic business rule evaluation
-- AST-based processing system
+A modern link-sharing platform that allows users to organize and share all their important links from a single profile.
 
-### 🎙️ Live Call Sentiment Analysis
-- Speech Recognition + NLP
-- Real-time transcription and sentiment tracking
-
-### 🌐 Personal Portfolio
-- Interactive portfolio showcasing projects and experience
-- Built using React and modern UI components
+**Tech Stack:** React • TypeScript • Tailwind CSS • Vercel
 
 ---
 
-## 🏆 Achievements
+## 🎮 Multiplayer Tic Tac Toe
 
-🏅 Software Development Intern — PharmEasy
+🌐 Live Demo  
+https://multiplayer-tictactoe-nakama.vercel.app/
 
-🏅 Software Development Intern — Nityo Infotech
+Real-time multiplayer Tic Tac Toe with matchmaking and synchronized gameplay.
 
-🏅 Pega Intern — Eclatprime
-
-🏅 Joint Secretary — Computer Science & Engineering Association (CSEA)
-
-🏅 NPTEL Certified in Cloud Computing
+**Tech Stack:** React • TypeScript • Nakama • WebSockets
 
 ---
 
-## 📈 Profile Views
+## 📊 GST Reconciliation Tool
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=EshwarAkhilesh25&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+Automated GST comparison platform with Excel uploads, mismatch reporting, and database reconciliation.
+
+**Tech Stack:** FastAPI • MySQL • React
 
 ---
 
-## 🏅 GitHub Trophies
+## 📄 AI Resume Parser
+
+AI-powered resume parsing system that extracts structured candidate information using OCR and NLP.
+
+**Tech Stack:** Python • FastAPI • NLP • OCR
+
+---
+
+## 🎙️ Live Call Sentiment Analysis
+
+Real-time speech transcription and sentiment analysis platform.
+
+**Tech Stack:** Python • NLP • Speech Recognition
+
+---
+
+## 🧠 Rule Engine
+
+Dynamic rule evaluation engine with AST-based processing.
+
+**Tech Stack:** Node.js • MongoDB
+
+---
+
+# 📈 Profile Views
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=EshwarAkhilesh25&theme=tokyonight&row=1&column=7" />
+
+<img src="https://komarev.com/ghpvc/?username=EshwarAkhilesh25&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 💡 Quote
+# 🏆 GitHub Trophies
 
-> “First, solve the problem. Then, write the code.”
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=EshwarAkhilesh25&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/EshwarAkhilesh25/EshwarAkhilesh25/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 💡 Favorite Quote
+
+> "First, solve the problem. Then, write the code."
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! 🚀
+### Thanks for visiting my profile 🚀
+
+Always open to Software Engineering opportunities, collaborations, and exciting projects.
 
 </div>
