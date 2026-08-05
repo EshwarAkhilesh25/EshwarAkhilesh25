@@ -143,6 +143,8 @@ AI-powered document analysis platform with semantic search, document summarizati
 
 ## 🤖 InsightForge – AI-Powered Customer Feedback Intelligence Platform
 
+An AI-powered platform that analyzes customer feedback using semantic embeddings, clustering, and Google Gemini to generate actionable insights, analytics dashboards, and executive reports.
+
 🌐 https://insight-forge-ai-feedback-synthesis.vercel.app
 
 **Tech Stack:** FastAPI • Next.js • TypeScript • PostgreSQL • Google Gemini • SQLAlchemy • Tailwind CSS • Render • Vercel • Neon PostgreSQL
