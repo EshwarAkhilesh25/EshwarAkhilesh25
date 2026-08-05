@@ -133,6 +133,19 @@
 ---
 
 # 🚀 Featured Projects
+## 📄 DocPilot AI
+
+🌐 https://docpilot-ai-beta.vercel.app/
+
+AI-powered document analysis platform with semantic search, document summarization, key findings extraction, and conversational Q&A using a custom RAG pipeline.
+
+**Tech Stack:** FastAPI • Python • React • TypeScript • PostgreSQL • FAISS • Hugging Face • Groq • Docker
+
+## 🤖 InsightForge – AI-Powered Customer Feedback Intelligence Platform
+
+🌐 https://insight-forge-ai-feedback-synthesis.vercel.app
+
+**Tech Stack:** FastAPI • Next.js • TypeScript • PostgreSQL • Google Gemini • SQLAlchemy • Tailwind CSS • Render • Vercel • Neon PostgreSQL
 
 ## 🔗 Link Nest
 
